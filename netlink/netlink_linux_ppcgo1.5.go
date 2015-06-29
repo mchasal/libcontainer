@@ -1,4 +1,5 @@
-// +build arm ppc64 ppc64le
+// +build ppc64 ppc64le
+// +build go1.5
 
 package netlink
 
